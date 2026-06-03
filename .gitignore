@@ -42,3 +42,7 @@ results.sarif
 
 # Local test files
 temp.sh
+.codex-repo-context.json
+.env
+*.tfstate
+*.tfstate.*
